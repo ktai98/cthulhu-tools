@@ -10,6 +10,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.12"
+dearpygui = "^2.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
