@@ -2,7 +2,6 @@
 name = "cthulhu-tools"
 version = "0.1.0"
 description = ""
-authors = ["ktai98 <tai98.k@gmail.com>"]
 readme = "README.md"
 packages = [
     {include = "cthulhu_tools"}
